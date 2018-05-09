@@ -1,6 +1,6 @@
 # url-teleport
-Teleport your url right to your phone
-Install the extension on your browser by following these steps:
+Teleport your url right to your phone.
+## Install the extension on your browser by following these steps:
 1.Open Google Chrome
 2.Click on the three dots on the top right corner.
 3.Go to More tools-->Extensions.
